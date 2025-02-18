@@ -1,0 +1,5 @@
+val=7, current=<__main__.Node object at 0x786ee29296a0>, random=None
+val=13, current=<__main__.Node object at 0x786ee29297c0>, random=<__main__.Node object at 0x786ee2929fd0>
+val=11, current=<__main__.Node object at 0x786ee292a7e0>, random=<__main__.Node object at 0x786ee292ac00>
+val=10, current=<__main__.Node object at 0x786ee292ae10>, random=<__main__.Node object at 0x786ee292aed0>
+val=1, current=<__main__.Node object at 0x786ee292aff0>, random=<__main__.Node object at 0x786ee292afc0>
